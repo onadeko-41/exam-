@@ -1,0 +1,2 @@
+[production]
+slavel ansible_ssh_host=54.163.176.75
